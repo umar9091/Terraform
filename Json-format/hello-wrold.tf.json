@@ -1,0 +1,13 @@
+{
+    "output" : {
+        "hello1": {
+            "value": "hello world"
+        },
+
+        "hello2": {
+            "value": "hello world2"
+        }
+
+    }
+}
+    
