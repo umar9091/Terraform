@@ -12,3 +12,6 @@
 
 --> To destroy a spcific resource 
 # terraform destroy --target github_repository.created-by-terraform
+
+--> To watch terraform output 
+# terraform output github-repo-url  //github-repo-url is a resource name
