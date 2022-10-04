@@ -1,0 +1,2 @@
+#specify the tfvar file name, if you have multiples
+terraform plan -var-file=development.tfvars
