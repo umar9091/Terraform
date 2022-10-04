@@ -7,3 +7,8 @@ variable "userage" {
     }
   
 }
+
+variable "username" {
+    type = string
+  
+}
