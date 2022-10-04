@@ -1,1 +1,1 @@
-token="ghp_QHYexkUKPWz4or1r6FxX"
+token = "ghp_QHYexkUKPz4or1r6FxX"
