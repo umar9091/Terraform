@@ -9,3 +9,6 @@
 --> To generate the github token, go to Github
 
 # Settings > Developer settings > Personal access tokens > Generate New token
+
+--> To destroy a spcific resource 
+# terraform destroy --target github_repository.created-by-terraform
