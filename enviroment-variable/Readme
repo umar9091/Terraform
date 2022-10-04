@@ -1,0 +1,3 @@
+To read a enviroment variable in terraform. you have to export like this, in your machine/OS
+
+#  export TF_VAR_username=DevOps
