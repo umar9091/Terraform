@@ -1,3 +1,4 @@
-provider "github" {  
+provider "github" { 
+    token = "${var.token}"
 }
 
