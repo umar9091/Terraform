@@ -1,0 +1,9 @@
+--> Github provider:
+
+# https://registry.terraform.io/providers/integrations/github/latest/docs
+
+--> To list the all providers in current directory
+# terraform providers
+
+
+--> To generate the github token, go to Github settings > developer options > generate one
