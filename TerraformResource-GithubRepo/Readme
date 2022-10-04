@@ -6,4 +6,6 @@
 # terraform providers
 
 
---> To generate the github token, go to Github settings > developer options > generate one
+--> To generate the github token, go to Github
+
+# Settings > Developer settings > Personal access tokens > Generate New token
